@@ -11,3 +11,6 @@ Responsive design for different screen sizes
 Credits
 This project was built following a Scrimba React course:
 https://scrimba.com/learn-react-c0e/~07a
+
+Want to try it? Go Ahead 
+https://rameztalaat.github.io/tenzies-game
